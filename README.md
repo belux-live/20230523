@@ -13,30 +13,16 @@ Tuesday, May 23, 2023
 Gent, Vlaams Gewest, 9000](https://goo.gl/maps/gKf7kDfN8ZpYaDTK8)
 
 ## Agenda
-1:30 PM     Welcome
-
-1:45 PM     Esther Bartel, CTP
-            Speaker session: Infrastructure-as-Code, like a boss!
-
-2:30 PM     LoginVSI - Henri Koelewijn
-            Partner session: From Troubles to Triumphs: Applying the EUX Score and Login Enterprise in Real-world Scenarios
-
-2:55 PM     Secutec - Thomas Jannes
-            Credential leaks: the biggest source for ransomware organizations
-
-3:30 PM     Break
-
-3:45 PM     Gregory Hoogsteyns
-            Configuration as Code for Intune
-
-4:30 PM     Numecent - Rory Monaghan, CTP
-            Partner session: How to Modernize Application Management Across Citrix Desktops with Cloudpager
-
-4:55 PM     Adam Clark, CTP
-            Speaker session: “Infrastructure as Code 101 with a splash of Citrix” Synopsis: Adam will introduce you to some of the key elements of the new cool kid on the block, Infrastructure-as-Code, and how that might change the way we work with Citrix Cloud in the future.
-
-5:45 PM     Closing
-
-7:00 PM     Bowling
-
-8:00 PM     Diner
+|Time|Session|
+|---|---|
+|1:30 PM|Welcome|
+|1:45 PM|**Esther Bartel, CTP**<br/>**Speaker session:** Infrastructure-as-Code, like a boss!|
+|2:30 PM|**LoginVSI - Henri Koelewijn**<br/>**Partner session:** From Troubles to Triumphs: Applying the EUX Score and Login Enterprise in Real-world Scenarios|
+|2:55 PM|**Secutec - Thomas Jannes**<br/>**Speaker Session:** Credential leaks: the biggest source for ransomware organizations|
+|3:30 PM|Break|
+|3:45 PM|**Gregory Hoogsteyns**<br/>**Speaker session:** Configuration as Code for Intune|
+|4:30 PM|**Numecent - Rory Monaghan, CTP**<br/>**Partner session:** How to Modernize Application Management Across Citrix Desktops with Cloudpager|
+|4:55 PM|**Adam Clark, CTP**<br/>**Speaker session:** “Infrastructure as Code 101 with a splash of Citrix”<br/>**Synopsis:** Adam will introduce you to some of the key elements of the new cool kid on the block, Infrastructure-as-Code, and how that might change the way we work with Citrix Cloud in the future.|
+|5:45 PM|Closing|
+|7:00 PM|Bowling|
+|8:00 PM|Diner|
