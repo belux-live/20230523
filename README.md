@@ -3,7 +3,7 @@ BeLux-as-Code CUGC meeting
 
 Here you can find all the presentations that were given on the 23rd of May during the first ever BeLux CUGC event!
 
-When
+## When
 Tuesday, May 23, 2023
 1:30 PM – 11:00 PM GMT+2
 
