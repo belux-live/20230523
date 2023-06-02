@@ -1,6 +1,4 @@
-# 20230523
-BeLux-as-Code CUGC meeting
-
+# 20230523 - BeLux-as-Code CUGC meeting
 Here you can find all the presentations that were given on the 23rd of May during the first ever BeLux CUGC event!
 
 ## When
