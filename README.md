@@ -8,9 +8,9 @@ Tuesday, May 23, 2023
 1:30 PM – 11:00 PM GMT+2
 
 ## Where
-Restaurant O'Learys | Sportsbar & Bowling
+[Restaurant O\'Learys | Sportsbar & Bowling
 7 Dok-Noord
-Gent, Vlaams Gewest, 9000
+Gent, Vlaams Gewest, 9000](https://goo.gl/maps/gKf7kDfN8ZpYaDTK8)
 
 ## Agenda
 1:30 PM     Welcome
